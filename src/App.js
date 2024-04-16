@@ -74,6 +74,7 @@ function App() {
       }, i * 50);
     }
   };
+
   return (
     <div className="App">
       <div className="array-container">
@@ -90,3 +91,5 @@ function App() {
     </div>
   );
 }
+
+export default App;
